@@ -30,3 +30,8 @@ An automated, transparent web portal enabling citizens to lodge civic complaints
 * **Lab-3:** Requirement Engineering & Elicitation
 * **Lab-4:** IEEE 830 Standard Software Requirements Specification (SRS)
 * **Lab-5:** UML Use Case Modeling & Diagrams
+* **Lab-6:** UML Class Diagram DesignAssignment
+* **Lab-7:** UML Sequence & Activity Diagram Assignment
+* **Lab-8:** Software Design Principle - ReportAssignment
+* **Lab-9:** Software Architecture Design & Design PatternsAssignment
+  
