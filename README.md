@@ -7,7 +7,7 @@ An automated, transparent web portal enabling citizens to lodge civic complaints
 * **Repository:** `Municipal_Compliant_System`
 * **Architecture:** MVC / Microservices-ready Web Architecture
 
-## 👥 Team & Roles
+## 👥 Team & Roles 
 1. **Kavin Gupta:** Business Analyst / Requirements Engineer...
 
 ## 🚀 Core Features
